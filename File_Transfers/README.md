@@ -1,1 +1,1 @@
-This is one of the most insightful of Hackthebox modules! Enjoy reading my notes of it !
+This is one of the most insightful Hackthebox modules! Enjoy reading my notes of it !
